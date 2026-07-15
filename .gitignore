@@ -162,6 +162,7 @@ cython_debug/
 
 # PyCharm
 .idea/
+.vscode/
 
 # Ruff stuff:
 .ruff_cache/
